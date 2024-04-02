@@ -1,0 +1,2 @@
+new Swiper(".swiper",{spaceBetween:0,navigation:{nextEl:".image-slider__button-next",prevEl:".image-slider__button-prev"},grabCursor:!0,spaceBetween:0,loop:!0,effect:"fade",fadeEffect:{crossFade:!0}});const e=document.querySelector(".icon"),t=e.querySelector(".icon__bar--top"),o=e.querySelector(".icon__bar--bottom"),r=document.querySelector(".menu");e.addEventListener("click",()=>{t.classList.toggle("icon__bar--top-rotate"),o.classList.toggle("icon__bar--bottom-rotate"),r.classList.toggle("menu--hidden")});
+//# sourceMappingURL=index.f20b8d3a.js.map

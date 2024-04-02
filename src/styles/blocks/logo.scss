@@ -1,9 +1,0 @@
-.logo {
-  display: flex;
-
-  &__img {
-    height: 28px;
-
-    @include hover(transform, scale(1.2));
-  }
-}
